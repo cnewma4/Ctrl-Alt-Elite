@@ -14,22 +14,14 @@ Remember to:
 ```
  
 # Okta Facial Recognition
-```
-Template Instructions: Replace above "Project Name" with Participating Team Project Name which is different from the Team Name.
-```
 
 ## Project Details
-```
-Template Instructions: Provide your team specific details but.
-
-Event Track should have one of the following values: "Hack the Code" or "Digital Trust Ideation"
-```
 
 | Event Attribute| Description |
 | --- | --- |
 | Project Team Name | Ctrl, Alt, Elite |
 | Project Name | Okta Facial Recognition |
-| Event Track | Ideation |
+| Event Track | Digital Trust Ideation |
  
 ## Use Case Abstract
 ```
@@ -68,9 +60,6 @@ Template Instructions: Optional Section. If the team has documented reasons for 
 1. [ADR 01](./decisions/adr-01.md)
 
 ## Team Information
-```
-Template Instructions: Provide a brief description of your team, how it came to be, etc.
-```
 
 Our team members came together because we are the Elite of the Elite within the Sr Manager community and our eliteness drew us together.
  
