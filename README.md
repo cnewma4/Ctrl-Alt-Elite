@@ -13,7 +13,7 @@ Remember to:
 
 ```
  
-# Project Name
+# Okta Facial Recognition
 ```
 Template Instructions: Replace above "Project Name" with Participating Team Project Name which is different from the Team Name.
 ```
@@ -27,9 +27,9 @@ Event Track should have one of the following values: "Hack the Code" or "Digital
 
 | Event Attribute| Description |
 | --- | --- |
-| Project Team Name | xxxxxxxx |
-| Project Name | xxxxxxxx |
-| Event Track | xxxxxxxx |
+| Project Team Name | Ctrl, Alt, Elite |
+| Project Name | Okta Facial Recognition |
+| Event Track | Ideation |
  
 ## Use Case Abstract
 ```
