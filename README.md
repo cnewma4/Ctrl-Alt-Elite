@@ -72,10 +72,10 @@ Template Instructions: Optional Section. If the team has documented reasons for 
 Template Instructions: Provide a brief description of your team, how it came to be, etc.
 ```
 
-Our team members came together because ...
+Our team members came together because we are the Elite of the Elite within the Sr Manager community and our eliteness drew us together.
  
 | Name | Business Unit |
 | --- | --- |
-| [Name](mailto:xxxx@discover.com) | ??? |
-| [Name](mailto:xxxx@discover.com) | ??? |
-
+| [Chris Newman](mailto:chrisnewman@discover.com) | FAA |
+| [Taira Kline](mailto:tairakline@discover.com)  | FAA |
+| [Rohini Rade](mailto:rohinirade@discover.com)  | FAA |
